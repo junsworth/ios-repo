@@ -1,0 +1,3 @@
+Loader Widget
+
+Widget allows you to display a loader on the device's screen with 
